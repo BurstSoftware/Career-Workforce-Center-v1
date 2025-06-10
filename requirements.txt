@@ -1,2 +1,4 @@
 streamlit==1.39.0
 pandas==2.2.3
+fuzzywuzzy==0.18.0
+python-levenshtein==0.26.0
